@@ -1,0 +1,2 @@
+# sccs
+practice coding
